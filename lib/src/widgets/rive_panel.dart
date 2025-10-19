@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:rive/rive.dart';
+import 'package:rive_new/rive.dart';
 import 'package:meta/meta.dart';
 
 /// A widget that creates a shared texture to paint multiple [RiveWidget]s to.

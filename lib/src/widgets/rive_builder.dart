@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:rive/rive.dart';
+import 'package:rive_new/rive.dart';
 
 /// A function that builds a widget based on the state of the Rive file.
 ///

@@ -1,4 +1,4 @@
-import 'package:rive/rive.dart';
+import 'package:rive_new/rive.dart';
 
 /// A data bind option for a Rive file.
 sealed class DataBind {
