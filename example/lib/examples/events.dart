@@ -1,7 +1,7 @@
 // ignore_for_file: avoid_print
 
 import 'package:flutter/material.dart';
-import 'package:rive/rive.dart';
+import 'package:rive_new/rive.dart';
 
 /// We strongly recommend using Data Binding instead of Rive Events for better
 /// runtime control if you need to do more advanced logic than simple events.

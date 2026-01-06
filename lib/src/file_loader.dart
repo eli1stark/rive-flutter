@@ -1,7 +1,7 @@
 import 'dart:async' show Completer;
 
-import 'package:rive/rive.dart' as rive;
-import 'package:rive/src/errors.dart';
+import 'package:rive_new/src/errors.dart';
+import 'package:rive_new/rive.dart' as rive;
 
 /// {@template FileLoader}
 /// A class that loads a Rive file from an asset, URL, or file.

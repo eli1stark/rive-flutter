@@ -1,10 +1,9 @@
 // ignore_for_file: deprecated_member_use
 
-import 'package:flutter/services.dart';
-
 import 'package:flutter/material.dart';
-import 'package:rive/rive.dart';
+import 'package:flutter/services.dart';
 import 'package:rive_example/main.dart' show RiveExampleApp;
+import 'package:rive_new/rive.dart';
 
 /// We strongly recommend using Data Binding instead of updating text runs
 /// manually. See: https://rive.app/docs/runtimes/data-binding

@@ -1,8 +1,9 @@
 // ignore_for_file: avoid_print
 
 import 'dart:async';
+
 import 'package:flutter/material.dart';
-import 'package:rive/rive.dart';
+import 'package:rive_new/rive.dart';
 
 /// A widget that tests the memory cleanup of Rive resources.
 /// This widget will create and destroy a Rive graphic's resources with

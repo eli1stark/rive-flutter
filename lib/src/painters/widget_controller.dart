@@ -1,5 +1,5 @@
 import 'package:flutter/gestures.dart';
-import 'package:rive/rive.dart';
+import 'package:rive_new/rive.dart';
 
 /// {@template rive_controller}
 /// This controller builds on top of the concept of a Rive painter, but
@@ -13,6 +13,7 @@ base class RiveWidgetController extends BasicArtboardPainter
   final File file;
 
   @override
+
   /// The artboard that the [RiveWidgetController] is painting.
   late final Artboard artboard;
 

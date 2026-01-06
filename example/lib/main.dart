@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:rive_example/advanced/advanced.dart';
 import 'package:rive_example/colors.dart';
 import 'package:rive_example/examples/examples.dart';
-import 'package:rive/rive.dart' as rive;
+import 'package:rive_new/rive.dart' as rive;
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();

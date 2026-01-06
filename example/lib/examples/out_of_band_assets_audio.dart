@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:rive/rive.dart';
+import 'package:rive_new/rive.dart';
 
 /// An example showing how to load audio assets.
 ///

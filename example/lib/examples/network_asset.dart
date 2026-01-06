@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:rive/rive.dart';
 import 'package:rive_example/main.dart' show RiveExampleApp;
+import 'package:rive_new/rive.dart';
 
 class ExampleNetworkAsset extends StatefulWidget {
   const ExampleNetworkAsset({super.key});

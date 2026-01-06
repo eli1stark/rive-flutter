@@ -1,6 +1,6 @@
 import 'package:flutter/rendering.dart';
 import 'package:flutter/widgets.dart';
-import 'package:rive/src/widgets/inherited_widgets.dart';
+import 'package:rive_new/src/widgets/inherited_widgets.dart';
 import 'package:rive_native/rive_native.dart';
 import 'package:meta/meta.dart';
 

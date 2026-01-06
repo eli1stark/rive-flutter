@@ -1,11 +1,10 @@
-name: rive
+name: rive_new
 version: 0.14.0
 homepage: https://rive.app
 description: Rive Flutter Runtime. This package provides runtime functionality for Rive graphics built with the Rive editor available at https://rive.app
 repository: https://github.com/rive-app/rive-flutter
 topics:
   - animation
-  - ui
   - effects
   - design
   - games

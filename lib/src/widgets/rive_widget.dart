@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:rive/rive.dart';
 import 'package:meta/meta.dart';
+import 'package:rive_new/rive.dart';
 
 /// A widget that displays a Rive artboard.
 ///

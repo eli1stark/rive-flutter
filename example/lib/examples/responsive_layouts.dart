@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:rive/rive.dart';
 import 'package:rive_example/main.dart' show RiveExampleApp;
+import 'package:rive_new/rive.dart';
 
 class ExampleResponsiveLayouts extends StatefulWidget {
   const ExampleResponsiveLayouts({super.key});
@@ -31,17 +31,17 @@ class _ExampleResponsiveLayoutsState extends State<ExampleResponsiveLayouts> {
       dataBind: DataBind.auto(),
       builder: (context, state) => switch (state) {
         RiveLoading() => const Center(
-          child: Center(child: CircularProgressIndicator()),
-        ),
+            child: Center(child: CircularProgressIndicator()),
+          ),
         RiveFailed() => ErrorWidget.withDetails(
-          message: state.error.toString(),
-          error: FlutterError(state.error.toString()),
-        ),
+            message: state.error.toString(),
+            error: FlutterError(state.error.toString()),
+          ),
         RiveLoaded() => RiveWidget(
-          controller: state.controller,
-          fit: Fit.layout, // pass Fit.layout to use Rive's layout system
-          layoutScaleFactor: 1 / 2, // Optionally: scale the layout
-        ),
+            controller: state.controller,
+            fit: Fit.layout, // pass Fit.layout to use Rive's layout system
+            layoutScaleFactor: 1 / 2, // Optionally: scale the layout
+          ),
       },
     );
   }

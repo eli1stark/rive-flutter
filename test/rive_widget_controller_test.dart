@@ -2,7 +2,7 @@ import 'dart:io';
 
 import 'package:flutter/rendering.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:rive/rive.dart' as rive;
+import 'package:rive_new/rive.dart' as rive;
 
 void main() {
   late rive.File riveFile;

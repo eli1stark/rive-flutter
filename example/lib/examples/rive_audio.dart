@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:rive/rive.dart';
 import 'package:rive_example/main.dart';
+import 'package:rive_new/rive.dart';
 
 /// An example showing Rive Audio working with the Rive Widget.
 ///

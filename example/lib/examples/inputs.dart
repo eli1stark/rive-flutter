@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:rive/rive.dart';
+import 'package:rive_new/rive.dart';
 
 /// We strongly recommend using Data Binding instead of Rive Inputs for better
 /// runtime control. See: https://rive.app/docs/runtimes/data-binding

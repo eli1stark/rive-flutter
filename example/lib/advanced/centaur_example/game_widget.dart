@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:rive/rive.dart' as rive;
 import 'package:rive_example/advanced/centaur_example/centaur_game.dart';
+import 'package:rive_new/rive.dart' as rive;
 
 class CentaurGameWidget extends StatefulWidget {
   const CentaurGameWidget({super.key});

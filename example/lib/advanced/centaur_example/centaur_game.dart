@@ -3,7 +3,7 @@
 import 'dart:math';
 
 import 'package:flutter/rendering.dart';
-import 'package:rive/rive.dart' as rive;
+import 'package:rive_new/rive.dart' as rive;
 
 class Arrow {
   static const double appleRadius = 50;

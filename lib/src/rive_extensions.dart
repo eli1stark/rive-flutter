@@ -1,4 +1,4 @@
-import 'package:rive/rive.dart' as rive;
+import 'package:rive_new/rive.dart' as rive;
 
 extension RiveFileExtension on rive.File {
   /// Creates a default view model instance for the given artboard.
